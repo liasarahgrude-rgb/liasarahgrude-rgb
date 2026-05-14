@@ -2,7 +2,7 @@
 
 Sou a **Lia**, moro em Fortaleza e faço **Ciências da Computação na Uece**.
 
-Meu objetivo atual é construir uma base sólida no **desenvolvimento de software**, encarando os desafios de baixo nível do **C** e aproveitando a versatilidade do **Python**."
+Meu objetivo atual é construir uma base sólida no **desenvolvimento de software**, encarando os desafios de **C** e aproveitando a versatilidade do **Python**."
 
 ---
 
